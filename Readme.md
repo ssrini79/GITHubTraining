@@ -7,3 +7,5 @@ Learn GIT
 # Chapter 2
 
 # Chapter 3
+
+Public change
