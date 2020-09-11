@@ -10,5 +10,7 @@ Some text saved.
 Chpt 2 test filled
 
 # Chapter 3
-diff test
+
+chpt3
+
 Public change
